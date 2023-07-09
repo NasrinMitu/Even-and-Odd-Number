@@ -122,3 +122,19 @@ h2:after {
   color: whitesmoke;
   min-height: 40px;
 }
+
+#refresh_btn {
+  margin-top: 20px;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  font-size: 1.1rem;
+  background-color: #2ecc71;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  transition: 3s;
+}
+
+#refresh_btn:hover {
+  background-color: #2ecc60;
+}
